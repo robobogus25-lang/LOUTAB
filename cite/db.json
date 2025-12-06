@@ -1,0 +1,69 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name": "Andriy",
+      "sirname": "Boguslavchenko",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg",
+      "balance": 1500
+    },
+        {
+      "id": 2,
+      "name": "Vova",
+      "sirname": "Oleksiychenko",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg",
+      "balance": 1700
+    }
+  ],
+
+  "products":[
+    {
+      "id": 1,
+      "name": "піца 4 ковбаси",
+      "description": "супер піца",
+      "price": 130,
+      "author_id": 1,
+      "photo_url": "https://www.foodandwine.com/thmb/iJw7N_NfcPpd-EB8rpYbzrkSFIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tomato-mozzarella-pizza-FT-RECIPE0725-e7244e979c504188a049623668c15b2e.jpg"
+    },
+        {
+      "id": 2,
+      "name": "піца 3 ковбаси",
+      "description": "супер піца",
+      "price": 100,
+      "author_id": 1,
+      "photo_url": "https://www.foodandwine.com/thmb/iJw7N_NfcPpd-EB8rpYbzrkSFIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tomato-mozzarella-pizza-FT-RECIPE0725-e7244e979c504188a049623668c15b2e.jpg"
+    },
+        {
+      "id": 3,
+      "name": "піца 4 ковбаси",
+      "description": "супер піца",
+      "price": 130,
+      "author_id": 1,
+      "photo_url": "https://www.foodandwine.com/thmb/iJw7N_NfcPpd-EB8rpYbzrkSFIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tomato-mozzarella-pizza-FT-RECIPE0725-e7244e979c504188a049623668c15b2e.jpg"
+    },
+        {
+      "id": 4,
+      "name": "піца 4 ковбаси",
+      "description": "супер піца",
+      "price": 130,
+      "author_id": 1,
+      "photo_url": "https://www.foodandwine.com/thmb/iJw7N_NfcPpd-EB8rpYbzrkSFIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tomato-mozzarella-pizza-FT-RECIPE0725-e7244e979c504188a049623668c15b2e.jpg"
+    },
+        {
+      "id": 5,
+      "name": "піца 4 ковбаси",
+      "description": "супер піца",
+      "price": 130,
+      "author_id": 1,
+      "photo_url": "https://surl.li/xczqvl"
+    },
+        {
+      "id": 6,
+      "name": "піца 4 ковбаси",
+      "description": "супер піца",
+      "price": 130,
+      "author_id": 1,
+      "photo_url": "https://www.foodandwine.com/thmb/iJw7N_NfcPpd-EB8rpYbzrkSFIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tomato-mozzarella-pizza-FT-RECIPE0725-e7244e979c504188a049623668c15b2e.jpg"
+    }
+  ]
+}
